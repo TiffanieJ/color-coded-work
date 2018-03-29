@@ -2,9 +2,9 @@
     "name": "color-coded-advanced-resume-app",
     "version": "1.0.0",
     "description": "Course materials and exercises",
-    "main": "index.js",
     "scripts": {
-      "test": "tape workshop2/**/*_test.js"
+      "test": "tape workshop2/**/*_test.js",
+      "start": "node server.js"
     },
     "repository": {
       "type": "git",
